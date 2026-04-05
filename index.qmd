@@ -1,0 +1,34 @@
+---
+title: "Introduction to Physical AI"
+subtitle: "Course Website Template"
+---
+
+Instructor: Yonghyeon Lee
+
+## Course Overview
+This course introduces the core ideas behind Physical AI, covering how embodied
+systems sense, move, reason, plan, learn, and interact with the physical world.
+The lectures connect classical robotics foundations with modern data-driven
+learning methods and discuss practical applications and societal impact.
+
+## Lecture Schedule
+
+| Week | Lecture | Notes | Slides |
+|---|---|---|---|
+| Week 1 | Lecture 01: Introduction: What is Physical AI? |  |  |
+| Week 2 | Lecture 02: Anatomy of a Physical AI System |  |  |
+| Week 3 | Lecture 03: Sensors: How Robots Perceive the World |  |  |
+| Week 4 | Lecture 04: Actuators: How Robots Move |  |  |
+| Week 5 | Lecture 05: Robot Bodies and Embodiment |  |  |
+| Week 6 | Lecture 06: Basic Geometry and Motion Representation |  |  |
+| Week 7 | Lecture 07: Perception and World Understanding |  |  |
+| Week 8 | Lecture 08: From Goals to Actions: Planning and Policy |  |  |
+| Week 9 | Lecture 09: Feedback and Control |  |  |
+| Weeks 10-11 | Lecture 10: Learning for Physical AI |  |  |
+| Week 12 | Lecture 11: Physics for Physical AI |  |  |
+| Week 13 | Lecture 12: Integrating Data and Physics |  |  |
+| Week 14 | Lecture 13: Applications and Societal Impact |  |  |
+| Weeks 15-16 | Lecture 14: Final Presentations / Future of Physical AI |  |  |
+
+Full notes index: [Lecture Notes](notes/index.qmd)<br>
+Full slides index: [Lecture Slides](slides/index.qmd)

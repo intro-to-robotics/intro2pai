@@ -1,0 +1,31 @@
+---
+title: "Lecture Notes"
+---
+
+::: {.lecture-list}
+### Foundations {.unnumbered}
+Lecture 01: Introduction: What is Physical AI?<br>
+Lecture 02: Anatomy of a Physical AI System<br>
+
+### Sensing and Acting {.unnumbered}
+Lecture 03: Sensors: How Robots Perceive the World<br>
+Lecture 04: Actuators: How Robots Move<br>
+Lecture 05: Robot Bodies and Embodiment<br>
+
+### Geometry, Perception, and Planning {.unnumbered}
+Lecture 06: Basic Geometry and Motion Representation<br>
+Lecture 07: Perception and World Understanding<br>
+Lecture 08: From Goals to Actions: Planning and Policy<br>
+
+### Control and Learning {.unnumbered}
+Lecture 09: Feedback and Control<br>
+Lecture 10: Learning for Physical AI<br>
+
+### Physics and Integration {.unnumbered}
+Lecture 11: Physics for Physical AI<br>
+Lecture 12: Integrating Data and Physics<br>
+
+### Impact and Future {.unnumbered}
+Lecture 13: Applications and Societal Impact<br>
+Lecture 14: Final Presentations / Future of Physical AI<br>
+:::
