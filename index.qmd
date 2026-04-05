@@ -15,7 +15,7 @@ learning methods and discuss practical applications and societal impact.
 
 | Week | Lecture | Notes | Slides |
 |---|---|---|---|
-| Week 1 | Lecture 01: Introduction: What is Physical AI? |  |  |
+| Week 1 | Lecture 01: Introduction: What is Physical AI? | [Notes](notes/what_is_physical_ai.qmd) | [Slides](https://1drv.ms/p/c/831745eefddf18d9/IQDcJe5nNr1aT55wQnANUypHAR9lrb_BRc5bE60a1k5iy3M?e=qC3FmL) |
 | Week 2 | Lecture 02: Anatomy of a Physical AI System |  |  |
 | Week 3 | Lecture 03: Sensors: How Robots Perceive the World |  |  |
 | Week 4 | Lecture 04: Actuators: How Robots Move |  |  |
