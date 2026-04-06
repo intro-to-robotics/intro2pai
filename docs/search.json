@@ -4,7 +4,7 @@
     "href": "slides/index.html",
     "title": "Slides",
     "section": "",
-    "text": "Slide Index\n\nLecture 01: Introduction: What is Physical AI? Lecture 02: Anatomy of a Physical AI System Lecture 03: Sensors: How Robots Perceive the World Lecture 04: Actuators: How Robots Move Lecture 05: Robot Bodies and Embodiment Lecture 06: Basic Geometry and Motion Representation Lecture 07: Perception and World Understanding Lecture 08: From Goals to Actions: Planning and Policy Lecture 09: Feedback and Control Lecture 10: Learning for Physical AI Lecture 11: Physics for Physical AI Lecture 12: Integrating Data and Physics Lecture 13: Applications and Societal Impact Lecture 14: Final Presentations / Future of Physical AI"
+    "text": "Slides\n\nLecture 01: Introduction: What is Physical AI? Lecture 02: Anatomy of a Physical AI System Lecture 03: Robot Bodies and Embodiment Lecture 04: Sensors: How Robots Perceive the World Lecture 05: Actuators: How Robots Move Lecture 06: Basic Kinematics and Dynamics Lecture 07: Perception and World Understanding Lecture 08: From Goals to Actions: Planning and Policy Lecture 09: Feedback Control Lecture 10: Learning for Physical AI Lecture 11: Physics for Physical AI Lecture 12: Integrating Data and Physics Lecture 13: Applications and Societal Impact Lecture 14: Final Presentations / Future of Physical AI"
   },
   {
     "objectID": "index.html",
@@ -18,20 +18,20 @@
     "href": "index.html#course-overview",
     "title": "Introduction to Physical AI",
     "section": "Course Overview",
-    "text": "Course Overview\nThis course introduces the core ideas behind Physical AI, covering how embodied systems sense, move, reason, plan, learn, and interact with the physical world. The lectures connect classical robotics foundations with modern data-driven learning methods and discuss practical applications and societal impact."
+    "text": "Course Overview\nThis course offers an introductory survey of the core ideas underlying Physical AI. Topics include the fundamental components of embodied AI systems, such as perception, planning, control, and both learning-based and physics-based approaches. Emphasis is placed on conceptual understanding rather than mathematical detail. The course aims to help students understand the broader landscape of Physical AI, recognize its main technical challenges, and develop a roadmap for further study."
   },
   {
     "objectID": "index.html#lecture-schedule",
     "href": "index.html#lecture-schedule",
     "title": "Introduction to Physical AI",
     "section": "Lecture Schedule",
-    "text": "Lecture Schedule\n\n\n\nWeek\nLecture\nNotes\nSlides\n\n\n\n\nWeek 1\nLecture 01: Introduction: What is Physical AI?\nNotes\nSlides\n\n\nWeek 2\nLecture 02: Anatomy of a Physical AI System\n\n\n\n\nWeek 3\nLecture 03: Sensors: How Robots Perceive the World\n\n\n\n\nWeek 4\nLecture 04: Actuators: How Robots Move\n\n\n\n\nWeek 5\nLecture 05: Robot Bodies and Embodiment\n\n\n\n\nWeek 6\nLecture 06: Basic Geometry and Motion Representation\n\n\n\n\nWeek 7\nLecture 07: Perception and World Understanding\n\n\n\n\nWeek 8\nLecture 08: From Goals to Actions: Planning and Policy\n\n\n\n\nWeek 9\nLecture 09: Feedback and Control\n\n\n\n\nWeeks 10-11\nLecture 10: Learning for Physical AI\n\n\n\n\nWeek 12\nLecture 11: Physics for Physical AI\n\n\n\n\nWeek 13\nLecture 12: Integrating Data and Physics\n\n\n\n\nWeek 14\nLecture 13: Applications and Societal Impact\n\n\n\n\nWeeks 15-16\nLecture 14: Final Presentations / Future of Physical AI\n\n\n\n\n\nFull notes index: Lecture Notes Full slides index: Lecture Slides"
+    "text": "Lecture Schedule\n\n\n\nWeek\nLecture\nNotes\nSlides\n\n\n\n\nWeek 1\nLecture 01: Introduction: What is Physical AI?\nNotes\nSlides\n\n\nWeek 1\nLecture 02: Anatomy of a Physical AI System\n\n\n\n\nWeek 2\nLecture 03: Robot Bodies and Embodiment\n\n\n\n\nWeek 3\nLecture 04: Sensors: How Robots Perceive the World\n\n\n\n\nWeek 4\nLecture 05: Actuators: How Robots Move\n\n\n\n\nWeek 5-6\nLecture 06: Basic Kinematics and Dynamics\n\n\n\n\nWeek 7\nLecture 07: Perception and World Understanding\n\n\n\n\nWeek 8\nLecture 08: From Goals to Actions: Planning and Policy\n\n\n\n\nWeek 9\nLecture 09: Feedback Control\n\n\n\n\nWeeks 10-11\nLecture 10: Learning for Physical AI\n\n\n\n\nWeek 12\nLecture 11: Physics for Physical AI\n\n\n\n\nWeek 13\nLecture 12: Integrating Data and Physics\n\n\n\n\nWeek 14\nLecture 13: Applications and Societal Impact\n\n\n\n\nWeeks 15-16\nLecture 14: Final Presentations / Future of Physical AI\n\n\n\n\n\nFull notes index: Lecture Notes Full slides index: Lecture Slides"
   },
   {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Lecture Notes",
     "section": "",
-    "text": "Foundations\nLecture 01: Introduction: What is Physical AI? Lecture 02: Anatomy of a Physical AI System\n\n\nSensing and Acting\nLecture 03: Sensors: How Robots Perceive the World Lecture 04: Actuators: How Robots Move Lecture 05: Robot Bodies and Embodiment\n\n\nGeometry, Perception, and Planning\nLecture 06: Basic Geometry and Motion Representation Lecture 07: Perception and World Understanding Lecture 08: From Goals to Actions: Planning and Policy\n\n\nControl and Learning\nLecture 09: Feedback and Control Lecture 10: Learning for Physical AI\n\n\nPhysics and Integration\nLecture 11: Physics for Physical AI Lecture 12: Integrating Data and Physics\n\n\nImpact and Future\nLecture 13: Applications and Societal Impact Lecture 14: Final Presentations / Future of Physical AI"
+    "text": "Introduction\nLecture 01: Introduction: What is Physical AI? Lecture 02: Anatomy of a Physical AI System\n\n\nEmbodiment, Sensors, and Actuation\nLecture 03: Robot Bodies and Embodiment Lecture 04: Sensors: How Robots Perceive the World Lecture 05: Actuators: How Robots Move\n\n\nModeling, Perception, and Planning\nLecture 06: Basic Kinematics and Dynamics Lecture 07: Perception and World Understanding Lecture 08: From Goals to Actions: Planning and Policy\n\n\nControl, Learning, and Physics\nLecture 09: Feedback Control Lecture 10: Learning for Physical AI Lecture 11: Physics for Physical AI Lecture 12: Integrating Data and Physics\n\n\nApplications and Future\nLecture 13: Applications and Societal Impact Lecture 14: Final Presentations / Future of Physical AI"
   }
 ]
