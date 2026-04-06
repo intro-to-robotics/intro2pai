@@ -6,10 +6,12 @@ subtitle: "Course Website Template"
 Instructor: Yonghyeon Lee
 
 ## Course Overview
-This course introduces the core ideas behind Physical AI, covering how embodied
-systems sense, move, reason, plan, learn, and interact with the physical world.
-The lectures connect classical robotics foundations with modern data-driven
-learning methods and discuss practical applications and societal impact.
+This course offers an introductory survey of the core ideas underlying Physical AI. 
+Topics include the fundamental components of embodied AI systems, 
+such as perception, planning, control, and both learning-based and physics-based approaches. 
+Emphasis is placed on conceptual understanding rather than mathematical detail. 
+The course aims to help students understand the broader landscape of Physical AI, 
+recognize its main technical challenges, and develop a roadmap for further study.
 
 ## Lecture Schedule
 
